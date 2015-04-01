@@ -15,3 +15,4 @@ alias show='apt-cache show'
 
 alias led='leafpad ~/.bash_aliases'
 alias bsu='source ~/.bash_aliases'
+alias q='exit'
